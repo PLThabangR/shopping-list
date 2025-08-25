@@ -1,10 +1,10 @@
 
 
 export interface User {
-    id: string;
+    id?: number;
     email: string;
     password: string;
      name: string;
      surname: string;
-     cellNumber: string;
+     cellNumber: number;
 }
