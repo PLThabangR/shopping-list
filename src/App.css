@@ -1,19 +1,4 @@
-@import "tailwindcss";
 
-@plugin "daisyui";
-app-container{
-/* Align everthing at the center */
-
-
-}
-
-body{
- 
- 
-    font-family: 'Playfair Display', serif;
-    font-weight: 100px;
-    fint-style:normal;
-}
 .input{
 
 }
@@ -23,6 +8,15 @@ body{
   border:none
 
 }
-@plugin "daisyui" {
-  themes: all;
+
+.btn:hover{
+
 }
+
+
+
+//BAckground color #FEF9EF
+
+//Button color  #C07858
+
+// header color #3C3D42
