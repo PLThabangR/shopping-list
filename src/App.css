@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@plugin "daisyui";
+app-container{
+/* Align everthing at the center */
+
+
+}
+
+body{
+ 
+ 
+    font-family: 'Playfair Display', serif;
+    font-weight: 100px;
+    fint-style:normal;
+}
+.input{
+
+}
+
+.btn{
+  background-color: #C07858;
+  border:none
+
+}
+@plugin "daisyui" {
+  themes: all;
+}

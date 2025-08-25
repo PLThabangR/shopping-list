@@ -1,0 +1,9 @@
+
+export interface UserType {
+   email: string;
+    password: string;
+    name: string;
+    surname: string;
+    cellphone: number
+    
+}
